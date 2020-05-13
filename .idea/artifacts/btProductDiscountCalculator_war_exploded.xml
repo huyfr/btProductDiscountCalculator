@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="btProductDiscountCalculator:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/btProductDiscountCalculator_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="btProductDiscountCalculator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="btProductDiscountCalculator" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
